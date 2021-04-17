@@ -1,1 +1,2 @@
-# 4players
+# synchronousBallMovement
+Ball moving synchronously
